@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mick
+- Hi, I’m Mick
 - Currently Studying Computer Science at Deakin University, previously the University of Newcastle. Switched due to planned relocation.  
 - 📫 How to reach me m1ck0@pm.me
 
