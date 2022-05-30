@@ -1,6 +1,18 @@
-- Hi, I’m Mick
-- Currently Studying Computer Science at Deakin University, previously the University of Newcastle. Switched due to planned relocation.  
-- 📫 How to reach me m1ckw@pm.me
+Hi and welcome to my Github profile! 
+
+In a nutshell.... I'm passionate about Data, Data analytics, Data Science, Coding and Software Development. 
+Especially Data! <br>
+Why Data? <br>
+
+Data in its own right isn't special, it's simply a collection of various signals, observations and measurements. It's often messy and uninteresting to look at. However, given the appropriate knowledge, technical skillset, and enough creativity, you can discover unknown truths, find answers to complex questions and predict outcomes. And that is the beautiful thing about data, it's raw information just waiting to be interpreted. 
+      
+If you're here for something specific but don't see it in my public repositories please get in touch, It may be hidden away in one of my private repositories.  
+
+I'm currently in my final year of Computer Science majoring in Data Science at Deakin University and I'm currently open to new career opportunities. 
+<blockquote>"Computer science is no more about computers than astronomy is about telescopes". - Michael Fellows.
+</blockquote> 
+
+📫 How to reach me: m1ckw@pm.me
 
 <!---
 m1ckw/m1ckw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
