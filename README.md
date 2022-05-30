@@ -1,6 +1,6 @@
 Hi and welcome to my Github profile! 
 
-In a nutshell.... I'm passionate about Data, Data analytics, Data Science, Coding and Software Development. 
+In a nutshell.... I'm passionate about Data, Data Analytics, Data Science, Coding and Software Development. 
 Especially Data! <br>
 Why Data? <br>
 
