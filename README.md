@@ -8,11 +8,11 @@ Data in its own right isn't special, it's simply a collection of various signals
       
 If you're here for something specific but don't see it in my public repositories please get in touch, It may be hidden away in one of my private repositories.  
 
+📫 How to reach me: m1ckw@pm.me
+
 I'm currently in my final year of Computer Science majoring in Data Science at Deakin University and I'm currently open to new career opportunities. 
 <blockquote>"Computer science is no more about computers than astronomy is about telescopes". - Michael Fellows.
 </blockquote> 
-
-📫 How to reach me: m1ckw@pm.me
 
 <!---
 m1ckw/m1ckw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
