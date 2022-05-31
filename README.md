@@ -1,7 +1,7 @@
 Hi and welcome to my Github profile! 
 
 In a nutshell: I'm passionate about Data, Data Analytics, Data Science and Software Development in general. <br>
-I'm proficient in:
+Currently I'm proficient in:
 <ul>
       <li>Java</li>
       <li>C++</li>
