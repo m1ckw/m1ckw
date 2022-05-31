@@ -1,8 +1,7 @@
 Hi and welcome to my Github profile! 
 
-In a nutshell; I'm passionate about Data, Data Analytics, Data Science, Coding and Software Development. <br>
-Especially Data!
-Why Data? 
+In a nutshell: I'm passionate about Data, Data Analytics, Data Science, Coding and Software Development. <br>
+Did I mention Data!?
 
 Data in its own right isn't special, it's simply a collection of various signals, observations and measurements. It's often messy and uninteresting to look at. However, given the appropriate knowledge, technical skills, and enough creativity, you can discover unknown truths, find answers to complex questions and predict outcomes. That's the beautiful thing about data, it's raw information just waiting to be interpreted. 
       
