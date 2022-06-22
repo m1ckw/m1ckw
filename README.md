@@ -1,5 +1,5 @@
 
-I'm currently in my final year of Computer Science majoring in Data Science at Deakin University and I'm open to new career opportunities.<br>
+I'm currently in my final year of Computer Science majoring in Data Science at Deakin University. Open to new opportunities.<br>
 
 📫 How to reach me: m1ckw@pm.me
  
